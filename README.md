@@ -37,12 +37,15 @@
 
 ###### POSTMAN
 DODANIE PROSTOKĄTA
+
 ![image](https://github.com/user-attachments/assets/7640674b-d71b-4a9f-9143-bb44160107c4)
 
 DODANIE TRÓJKĄTA
+
 ![image](https://github.com/user-attachments/assets/3db24caf-19a9-4b2b-9a2f-2c7f05fedeaa)
 
 WYKONANIE ŻĄDANIA GET
+
 ![image](https://github.com/user-attachments/assets/7f58bb5c-9f4d-4c3d-a4fa-41b7d29b2ab2)
 
 
