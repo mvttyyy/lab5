@@ -42,7 +42,7 @@ DODANIE PROSTOKĄTA
 
 DODANIE TRÓJKĄTA
 
-![image](https://github.com/user-attachments/assets/3db24caf-19a9-4b2b-9a2f-2c7f05fedeaa)
+![image](https://github.com/user-attachments/assets/111c5bd2-3368-46d9-9bc6-7b1674e9d356)
 
 WYKONANIE ŻĄDANIA GET
 
